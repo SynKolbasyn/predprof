@@ -15,5 +15,5 @@ git clone https://github.com/SynKolbasyn/predprof.git
 python3 task_<task_num>/task_<task_num>.py
 ```
 
-## Using
+## Usage
 This project was created to solve the tasks of the pre-professional exam, it can be used as educational purposes, all source code and data files are located in folders named task_<task_num>
